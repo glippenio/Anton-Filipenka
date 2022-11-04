@@ -1,0 +1,21 @@
+{
+  "name": "hometask-Anton-Filipenka",
+  "version": "1.0.0",
+  "description": "This is my first project",
+  "main": "main",
+  "repository": "git@github.com:glippenio/Anton-Filipenka.git",
+  "author": "afilipenka",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "moduleFileExtensions": [
+      "js"
+    ]
+  },
+  "type": "module"
+}
